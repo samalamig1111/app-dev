@@ -1,2 +1,9 @@
 # app-dev
 My First Repository
+#MY FAVORITE MOVIES
+## SCI-FI
+
+  **FROM NETFLIX
+1. OUTLANDER
+2. STAR TREK
+3. TIMELESS
